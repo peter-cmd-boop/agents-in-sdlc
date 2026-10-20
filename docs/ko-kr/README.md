@@ -6,9 +6,9 @@ authors:
 lastUpdated: 2026-09-28
 ---
 
-학습 목표와 원하는 깊이에 따라 워크숍을 선택합니다. **첫 단계**에서는 GitHub Copilot을 따라 하며 익히고, **실제 개발**에서는 완성된 애플리케이션과 팀 백로그를 사용해 프로덕션 중심의 워크플로를 연습합니다.
+학습 목표와 원하는 깊이에 따라 워크숍을 선택합니다. **첫걸음**에서는 GitHub Copilot을 따라 하며 익히고, **실제 개발**에서는 완성된 애플리케이션과 팀 백로그를 사용해 프로덕션 중심의 워크플로를 연습합니다.
 
-## 첫 단계
+## 첫걸음
 
 기존 코드베이스 없이도 GitHub Copilot 제품의 주요 기능을 익힐 수 있는 집중형 가이드 환경으로 시작합니다.
 
@@ -16,11 +16,11 @@ lastUpdated: 2026-09-28
 
 빈 폴더에서 Space Quiz를 만들고 GitHub에 게시한 다음, 이슈 구현, Copilot 검토, 자동화 예약, Canvas 워크플로 탐색까지 진행합니다.
 
-### [GitHub Copilot CLI 첫 단계][first-steps-cli]
+### [GitHub Copilot CLI 첫걸음][first-steps-cli]
 
 터미널에서 같은 Space Quiz를 만들고, diff를 검토하고, worktree에서 병렬 세션을 실행하고, 편집 전에 계획하며, 셸을 벗어나지 않고 끌어오기 요청을 만들고 병합하고 위임합니다.
 
-### [Visual Studio Code 첫 단계][first-steps-vscode]
+### [Visual Studio Code 첫걸음][first-steps-vscode]
 
 VS Code에서 Space Quiz를 만들고, 통합 브라우저에서 테스트하고, 소스 제어로 게시하고, GitHub 도구로 이슈와 끌어오기 요청을 다루고, 클라우드 세션에 작업을 넘깁니다.
 

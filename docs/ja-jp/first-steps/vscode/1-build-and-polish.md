@@ -24,7 +24,7 @@ Create a colorful, accessible space exploration quiz with 10 questions in a sing
 
 1. エディターで生成されたファイルをレビューします。
 2. 統合ブラウザーを開き、数問に回答します。
-3. 必要なときに **Source Control** を開き、変更されたファイルと差分を確認します。
+3. いつでも **Source Control** を開き、変更されたファイルと差分を確認できます。
 
 ## 要素を選んで仕上げる
 

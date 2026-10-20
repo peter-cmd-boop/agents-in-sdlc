@@ -31,7 +31,7 @@ lastUpdated: 2026-09-28
 - [Git을 설치합니다][git].
 - [Copilot 플랜을 비교합니다][copilot-plans].
 
-[GitHub Copilot app 첫걸음 워크숍][first-steps-app]이나 [GitHub Copilot CLI 첫걸음 워크숍][first-steps-cli]에서 다른 작업 방식으로 동일한 Space Quiz를 만들어 봅니다. 완전한 애플리케이션과 팀 백로그를 사용하는 더 심도 있는 시나리오를 진행할 준비가 되었다면 [실전 VS Code 워크숍][real-world-vscode]을 계속 진행합니다.
+[GitHub Copilot app 첫걸음 워크숍][first-steps-app]이나 [GitHub Copilot CLI 첫걸음 워크숍][first-steps-cli]에서 다른 작업 방식으로 동일한 Space Quiz를 만들어 봅니다. 완전한 애플리케이션과 팀 백로그를 사용하는 더 심도 있는 시나리오를 진행할 준비가 되었다면 [VS Code 실제 개발 워크숍][real-world-vscode]을 계속 진행합니다.
 
 [copilot-vscode]: https://code.visualstudio.com/docs/copilot/overview
 [pr-extension]: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github

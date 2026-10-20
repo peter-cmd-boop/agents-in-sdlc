@@ -33,7 +33,7 @@ lastUpdated: 2026-09-28
 - [실제 코드에서도 효과적인 프롬프트를 작성하는 모범 사례를 살펴봅니다][best-practices].
 - [Copilot 플랜을 비교합니다][copilot-plans].
 
-[GitHub Copilot app 첫걸음 워크숍][first-steps-app]이나 [Visual Studio Code 첫걸음 워크숍][first-steps-vscode]에서 다른 작업 방식으로 동일한 Space Quiz를 만들어 봅니다. 완전한 애플리케이션과 팀 백로그를 사용하는 더 심도 있는 시나리오를 진행할 준비가 되었다면 [실전 Copilot CLI 워크숍][real-world-cli]을 계속 진행합니다.
+[GitHub Copilot app 첫걸음 워크숍][first-steps-app]이나 [Visual Studio Code 첫걸음 워크숍][first-steps-vscode]에서 다른 작업 방식으로 동일한 Space Quiz를 만들어 봅니다. 완전한 애플리케이션과 팀 백로그를 사용하는 더 심도 있는 시나리오를 진행할 준비가 되었다면 [Copilot CLI 실제 개발 워크숍][real-world-cli]을 계속 진행합니다.
 
 [install-cli]: https://docs.github.com/copilot/how-tos/set-up/install-copilot-cli
 [about-cli]: https://docs.github.com/copilot/concepts/agents/about-copilot-cli
